@@ -1,5 +1,6 @@
 # 🎰 Event Lottery App — Cinematic 3-Reel Lucky Draw
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://event-lottery-app.vercel.app/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Web Crypto API](https://img.shields.io/badge/Web_Crypto_API-Fair_Random-10b981?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
@@ -7,7 +8,7 @@
 
 An interactive, high-performance, cinematic 3-reel slot machine lucky draw web application designed for live events, streaming, and stage presentations. Built with zero external frameworks or heavy dependencies using pure HTML5, CSS3, and Vanilla JavaScript.
 
-🌐 **Live Demo:** [https://kangnova.github.io/event-lottery-app/](https://kangnova.github.io/event-lottery-app/)
+🌐 **Live Demo:** [https://event-lottery-app.vercel.app/](https://event-lottery-app.vercel.app/)
 
 ---
 
@@ -32,7 +33,7 @@ An interactive, high-performance, cinematic 3-reel slot machine lucky draw web a
 
 ### **1. Online Live Demo**
 Access the deployed app directly in your browser:
-➡️ **[https://kangnova.github.io/event-lottery-app/](https://kangnova.github.io/event-lottery-app/)**
+➡️ **[https://event-lottery-app.vercel.app/](https://event-lottery-app.vercel.app/)**
 
 > **Default Access Credentials:**
 > - **Master Password:** `UNDIAN2026`
